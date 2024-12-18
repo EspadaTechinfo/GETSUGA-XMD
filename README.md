@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FFFF00&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel; PROGRAMMED+By+SPHE+AND+TRISTAN" alt="Fire SVG" /></a>
+<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FFFF00&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel; CODED+By+SPHE+AND+TRISTAN" alt="Fire SVG" /></a>
   
 
 ----------
