@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FFFF00&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+SPHE+AND+TRISTAN" alt="Typing SVG" /></a>
+<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FFFF00&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel; PROGRAMMED+By+SPHE+AND+TRISTAN" alt="Fire SVG" /></a>
   
 
 ----------
@@ -29,13 +29,11 @@
 <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/followers"><img title="Followers" src="https://img.shields.io/github/followers/ICHIGO?color=blue&style=flat-square"></a>
 <a href="https://github.com/https://github.com/EspadaTechinfo/GETSUGA-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
-<a href="/"><img title="Size" src="https://github.com/EspadaTechinfo/GETSUGA-XMD?style=flat-square&color=yellow"></a>
+<a
+href="/"><img title="Size" src="https://github.com/EspadaTechinfo/GETSUGA-XMD?style=flat-square&color=yellow"></a>
 <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/https://github.com/EspadaTechinfo/GETSUGA-XMD/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-</p>
-   
-<p align="center">
 
   <a aria-label="Join our chats" href="https://www.instagram.com/tsukuyomi_md/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Follow-25D366?style=for-the-badge&logo=instagram&logoColor=white" />
