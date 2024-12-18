@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://wa.me/27710200228"><img title="Author" src="https://files.catbox.moe/bu7bs1.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://wa.me/+27710200228?text=*ʜɪɪ+𝙄𝘾𝙃𝙄𝙂𝙊☾--+ɪ+ɴᴇᴇᴅ+ʏᴏᴜʀ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝐆𝐄𝐓𝐒𝐔𝐆𝐀_𝐓𝐄𝐍𝐒𝐇𝐎𝐔+ʀᴇᴘᴏ!!*"><img title="Author" src="https://files.catbox.moe/bu7bs1.jpg?style=for-the-badge&logo=github"></a>
 
 
 <div align="center">
