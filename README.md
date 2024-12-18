@@ -14,7 +14,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FFF&center=true&vCenter=true&multiline=false&lines=`IGETSUGA+-+TENSHOU+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FFF&center=true&vCenter=true&multiline=false&lines=`GETSUGA+TENSHOU+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
