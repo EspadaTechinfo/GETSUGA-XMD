@@ -1,6 +1,6 @@
 #𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔   
 <p align="center">
-<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD"><img title="Author" src="https://files.catbox.moe/k7ugin.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD"><img title="Author" src="https://files.catbox.moe/bu7bs1.jpg?style=for-the-badge&logo=github"></a>
 
 
 <div align="center">
