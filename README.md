@@ -1,4 +1,5 @@
-#𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔   
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=GETSUGA+-+TENSHOU" alt="Typing SVG" /></a>
+
 <p align="center">
 <a href="https://wa.me/27710200228"><img title="Author" src="https://files.catbox.moe/bu7bs1.jpg?style=for-the-badge&logo=github"></a>
 
