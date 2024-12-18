@@ -1,4 +1,4 @@
-# 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫    #Itachi(V6)
+#𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔   
 <p align="center">
 <a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
