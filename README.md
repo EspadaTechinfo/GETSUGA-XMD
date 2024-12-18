@@ -1,6 +1,6 @@
 #𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔   
 <p align="center">
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD"><img title="Author" src="https://files.catbox.moe/k7ugin.jpg?style=for-the-badge&logo=github"></a>
 
 
 <div align="center">
@@ -26,11 +26,11 @@
 <br>
 
   <p align="center">
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/followers"><img title="Followers" src="https://img.shields.io/github/followers/ICHIGO?color=blue&style=flat-square"></a>
+<a href="https://github.com/https://github.com/EspadaTechinfo/GETSUGA-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE?style=flat-square&color=green"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -45,12 +45,12 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TSUKUYOMI-MD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{GETSUGA-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
 
 
-  <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. TSUKUYOMI_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=red&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/fork"><img title="𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔" src="https://img.shields.io/badge/FORK/-𝐆𝐄𝐓𝐒𝐔𝐆𝐀 -h?color=red&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -62,7 +62,7 @@
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 5.  ***LEARN HOW TO DEPLOY WITH [`TERMUX`] | [`Tutorial`](https://youtube.com/@hoekagetech).***
-6.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE)***
+6.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/EspadaTechinfo/GETSUGA-XMD)***
    
 7.  #### DEPLOY IN HEROKU 
 
