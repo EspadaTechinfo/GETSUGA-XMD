@@ -43,7 +43,22 @@
  
 <a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
-</div>
+<div align="center">
+
+## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+
+## _[Basic usage helper](https://github.com/EspadaTechinfo/GETSUGA-XMD-Documentation)_
+
+<div align="left">
+---
+
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{GETSUGA-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
+
+
+  <p align="center"> Meet 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  
+  <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/fork"><img title="𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔" src="https://img.shields.io/badge/FORK/-𝐆𝐄𝐓𝐒𝐔𝐆𝐀 -h?color=red&style=for-the-badge&logo=stackshare"></a>
 
 ## _Note: Use a VPN according to the server you choose if the session logs out automatically._
 <br>
@@ -91,23 +106,6 @@
 
 Now the bot will start working
 ```
-
-<div align="center">
-
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
-
-## _[Basic usage helper](https://github.com/EspadaTechinfo/GETSUGA-XMD-Documentation)_
-
-<div align="left">
----
-
-
- <p align="center"><img src="https://profile-counter.glitch.me/{GETSUGA-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
-
-
-  <p align="center"> Meet 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
-  
-  <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/fork"><img title="𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔" src="https://img.shields.io/badge/FORK/-𝐆𝐄𝐓𝐒𝐔𝐆𝐀 -h?color=red&style=for-the-badge&logo=stackshare"></a>
 
   
  ---
