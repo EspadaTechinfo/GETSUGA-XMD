@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+Orange+Fri" alt="Typing SVG" /></a>
+<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+SPHE+AND+TRISTAN" alt="Typing SVG" /></a>
   
 
 ----------
@@ -14,7 +14,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`INFINITE+-+TSUKUYOMI+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`GETSUGA+-+TENSHOU+-+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
