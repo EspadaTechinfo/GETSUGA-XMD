@@ -45,9 +45,9 @@
 
 <div align="center">
 
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+## _[Koyeb: How to deploy](https://youtube.com/@hoekagetech?si=0-UZBiUnuFwi_pu8)_
 
-## _[Basic usage helper](https://github.com/EspadaTechinfo/GETSUGA-XMD-Documentation)_
+## _[Bot usage helper](https://wa.me/27710200228)_
 
 <div align="left">
 ---
