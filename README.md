@@ -29,8 +29,8 @@
 <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/followers"><img title="Followers" src="https://img.shields.io/github/followers/ICHIGO?color=blue&style=flat-square"></a>
 <a href="https://github.com/https://github.com/EspadaTechinfo/GETSUGA-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/EspadaTechinfo/GETSUGA-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE?style=flat-square&color=green"></a>
-<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="/"><img title="Size" src="https://github.com/EspadaTechinfo/GETSUGA-XMD?style=flat-square&color=yellow"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/https://github.com/EspadaTechinfo/GETSUGA-XMD/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
