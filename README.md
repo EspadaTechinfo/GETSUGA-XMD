@@ -34,7 +34,7 @@
 <p align='center'>
 
   <a aria-label="Join our chats" href="https://www.instagram.com/tsukuyomi_md/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Follow-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Follow-AA336A?style=for-the-badge&logo=instagram&logoColor=pink" />
   </a>
  
 <a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
